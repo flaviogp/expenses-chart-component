@@ -9,7 +9,7 @@
     <a href="https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://app.netlify.com/sites/musical-daffodil-f4806d/overview">View Demo</a>
+    <a href="https://musical-daffodil-f4806d.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/flaviogp/expenses-chart-component/issues">Report Bug</a>
     ·
@@ -38,13 +38,13 @@
 
 </div>
 
-This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt9MJp6). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt).Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Expenses chart component(ReactJs/TypeScript) | Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt)
+- Solution URL: [Expenses chart component(ReactJs/TypeScript) | Frontend Mentor](https://www.frontendmentor.io/solutions/espenses-chat-component-reactjs-typescript-sass-F3ht00TRbA)
 
-- Live Site URL: [ Click here ](https://app.netlify.com/sites/musical-daffodil-f4806d/overview)
+- Live Site URL: [ Click here ](https://musical-daffodil-f4806d.netlify.app/)
 
 <br>
 
